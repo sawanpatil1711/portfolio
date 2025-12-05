@@ -1,4 +1,5 @@
 .dashboard-container {
+  padding: 5rem 1rem;
   min-height: 100vh;
   background: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
   color: #e2e8f0;
